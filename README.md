@@ -1,0 +1,2 @@
+# CobaltSearch
+A home page.
